@@ -193,3 +193,4 @@ Next.js는 각 페이지마다 어떤 pre-rendering 방식을 할 것인지를 �
 
 # 🍎 Dynamic Routes
 
+![](https://nextjs.org/static/images/learn/dynamic-routes/how-to-dynamic-routes.png)
